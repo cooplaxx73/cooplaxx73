@@ -5,5 +5,5 @@
 • 🍳 Looking for a 2027 Summer Internship
 
 \
-I have a passion for learning new things and have an interest in software development and robotics. Feel free to reach out for a chat!
+I have a passion for machine learning, robotics and software development. Feel free to reach out for a chat!
 
